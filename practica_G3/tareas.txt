@@ -1,0 +1,5 @@
+raz verbal
+raz  matematico
+ingles
+frances
+fisica
