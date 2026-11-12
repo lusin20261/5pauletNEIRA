@@ -4,6 +4,9 @@ b=input("Ingresa el segun do numero")
 a=int(a)
 b=int(b)
 print("la multiplicacion es: ",a*b)
-print("ladivision es: ",a/b)
-# Agerga aqui  tambien la suma ,la resta y cualquier otra operacion que quieras
-print("a-b a+b a*b a/b a(2) a/b a-b  Gracias a/b a+b a-b a*b b(2)")
+print("la division es: ",a/b)
+print("la suma es: ",a+b)
+print("la resta es:",a-b)
+print("la raiz cuadrada es ",a(b))
+# Agrega aqui tambien la suma ,la resta y cualquier otra operacion que quieras 
+print("a-b a+b a*b a(b) a-b a/b Gracias a-b a+b a*b a/b a/a a(b)")
